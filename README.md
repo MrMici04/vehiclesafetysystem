@@ -24,6 +24,3 @@ When such states are detected, the system issues auditory or visual prompts to a
 - **Languages**: Python
 - **Libraries**: OpenCV, TensorFlow Lite or PyTorch
 - **Tools**: Google Docs (logbook), Git for version control
-
-## 📁 Repository Structure
-
